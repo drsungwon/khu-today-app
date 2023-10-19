@@ -1,6 +1,6 @@
 # [경희의 오늘] Client Application
 
-Dart 언어와 Flutter 프레임워크로 개발한 경희의 오늘의 Client입니다. <br>
+Dart 언어와 Flutter 프레임워크로 개발한 '경희의 오늘'의 Client입니다. <br>
 Android/iOS App, macOS/Windows/Linux Deaktop Software, Web browser 등을 통해서 실행 가능합니다. <br>
 
 Web browser를 통한 실행은 아래의 링크를 클릭해서 경험할 수 있습니다.  <br>
